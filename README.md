@@ -1,4 +1,4 @@
-# -PDF-Intelligence-System-Using-RAG
+# PDF-Intelligence-System-Using-RAG
 A lightweight **Retrieval-Augmented Generation (RAG)** system that lets you query PDFs using **local LLMs with Ollama**.   Built with **Streamlit**, **FAISS**, **Sentence Transformers**, and **Ollama**.  
 
 ✅ 100% local, no API keys  
