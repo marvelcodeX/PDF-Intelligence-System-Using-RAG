@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+rag_env/
+*.env
+
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# FAISS index files (large binary data)
+*.index
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.iml
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
