@@ -13,7 +13,7 @@ A lightweight **Retrieval-Augmented Generation (RAG)** system that lets you quer
 - Store & search embeddings with [FAISS](https://github.com/facebookresearch/faiss)  
 - Query using local LLMs via [Ollama](https://ollama.ai)  
 - Simple [Streamlit](https://streamlit.io/) web UI
-
+- Alternate: [Gradio](https://www.gradio.app/) UI
 ---
 
 ## Models
@@ -37,3 +37,12 @@ ollama pull qwen2:1.5b
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## Run the Gradio app
+
+```bash
+python app1.py
+```
+
