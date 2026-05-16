@@ -49,11 +49,10 @@ python app1.py
 ---
 
 ## Demo Images
+|  |  |
+|------------|------------------|
+| ![RAG PDF](demo_images/RAG_PDF1.png) | ![RAG PDF](demo_images/RAG_PDF2.png) |
 
-![RAG PDF](demo_images/RAG_PDF1.png)
-
-
-![RAG PDF](demo_images/RAG_PDF2.png)
-
-
-![RAG PDF](demo_images/RAG_PDF3.png)
+|  |  |
+|----------------------|-------------|
+| ![RAG PDF](demo_images/RAG_PDF3.png) |  |
